@@ -29,3 +29,8 @@ struct Task {
     string description;
     bool isCompleted;
 }
+
+```
+contract details: 0x3b28157415367b90b512f1b41a39f98ae1829242
+
+![WhatsApp Image 2025-05-26 at 15 00 05_168169a3](https://github.com/user-attachments/assets/cc2d59e5-3681-43bf-ac1a-380dd1dc660b)
